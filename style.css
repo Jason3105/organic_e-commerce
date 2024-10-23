@@ -355,7 +355,7 @@ a{
   overflow: hidden;
   font-weight: bold;
   left:650px;
-  top:-50px;
+  top:-5px;
 }
 
 .boton-1::after {
@@ -413,7 +413,7 @@ a{
   overflow: hidden;
   font-weight: bold;
   left:400px;
-  top:-28px;
+  top:0px;
   
 }
 
